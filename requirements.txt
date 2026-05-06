@@ -1,0 +1,9 @@
+polars>=1.0
+plotly>=5.20
+scikit-learn>=1.4
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+scikit-surprise>=1.1
+numpy>=1.26
+jupyter>=1.0
+ipykernel>=6.29
